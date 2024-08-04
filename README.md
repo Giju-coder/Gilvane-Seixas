@@ -5,4 +5,8 @@ Boas vindas.
 
 ![](![image](https://github.com/user-attachments/assets/0199601f-7191-4ee2-bebd-30433e7e41c3)
 
+Estamos estudando (Alura) [http://www.alura.com.br]
+
+
+
 
